@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/museum_app/static/css/main.32a2050a.chunk.css",
+    "main.js": "/museum_app/static/js/main.9c7887f0.chunk.js",
+    "main.js.map": "/museum_app/static/js/main.9c7887f0.chunk.js.map",
+    "runtime~main.js": "/museum_app/static/js/runtime~main.148c63ef.js",
+    "runtime~main.js.map": "/museum_app/static/js/runtime~main.148c63ef.js.map",
+    "static/js/2.50f5a3e5.chunk.js": "/museum_app/static/js/2.50f5a3e5.chunk.js",
+    "static/js/2.50f5a3e5.chunk.js.map": "/museum_app/static/js/2.50f5a3e5.chunk.js.map",
+    "index.html": "/museum_app/index.html",
+    "precache-manifest.395e45e62f00c8a203dfcf510dd78108.js": "/museum_app/precache-manifest.395e45e62f00c8a203dfcf510dd78108.js",
+    "service-worker.js": "/museum_app/service-worker.js",
+    "static/css/main.32a2050a.chunk.css.map": "/museum_app/static/css/main.32a2050a.chunk.css.map"
+  }
+}
